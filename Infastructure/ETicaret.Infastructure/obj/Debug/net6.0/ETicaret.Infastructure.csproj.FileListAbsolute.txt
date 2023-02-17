@@ -1,0 +1,12 @@
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\bin\Debug\net6.0\ETicaret.Infastructure.deps.json
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\bin\Debug\net6.0\ETicaret.Infastructure.dll
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\bin\Debug\net6.0\ETicaret.Infastructure.pdb
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.csproj.AssemblyReference.cache
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.AssemblyInfoInputs.cache
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.AssemblyInfo.cs
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.dll
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\refint\ETicaret.Infastructure.dll
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ETicaret.Infastructure.pdb
+C:\Users\nsc9\source\repos\ETicaret\Infastructure\ETicaret.Infastructure\obj\Debug\net6.0\ref\ETicaret.Infastructure.dll
